@@ -1,0 +1,7 @@
+Given I am on the homepage of the website,
+When I enter a search query in the search bar,
+Then relevant search results should be displayed on the search results page.
+
+Given I am on the search results page,
+When I click on a search result,
+Then I should be directed to the corresponding page with detailed information.
